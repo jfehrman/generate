@@ -1,0 +1,33 @@
+{
+  "name": "generate",
+  "version": "0.0.1",
+  "description": "Generator project.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfehrman/generate.git"
+  },
+  "keywords": [
+    "generator",
+    "user",
+    "interface",
+    "ui",
+    "generation",
+    "javascript",
+    "easy",
+    "ez",
+    "generation"
+  ],
+  "author": "Joe Fehrman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfehrman/generate/issues"
+  },
+  "homepage": "https://github.com/jfehrman/generate#readme",
+  "devDependencies": {
+    "webpack": "^4.30.0"
+  }
+}
